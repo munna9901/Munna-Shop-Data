@@ -12,63 +12,63 @@
     "price": 785
   },
   {
-    "diamonds": 25,
+    "diamonds": "25",
     "price": 25
   },
   {
-    "diamonds": 50,
+    "diamonds": "50",
     "price": 40
   },
   {
-    "diamonds": 115,
+    "diamonds": "115",
     "price": 84
   },
   {
-    "diamonds": 240,
+    "diamonds": "240",
     "price": 165
   },
   {
-    "diamonds": 355,
+    "diamonds": "355",
     "price": 240
   },
   {
-    "diamonds": 480,
+    "diamonds": "480",
     "price": 319
   },
   {
-    "diamonds": 505,
+    "diamonds": "505",
     "price": 338
   },
   {
-    "diamonds": 610,
+    "diamonds": "610",
     "price": 400
   },
   {
-    "diamonds": 725,
+    "diamonds": "725",
     "price": 480
   },
   {
-    "diamonds": 1240,
+    "diamonds": "1240",
     "price": 795
   },
   {
-    "diamonds": 2530,
+    "diamonds": "2530",
     "price": 1590
   },
   {
-    "diamonds": 5060,
+    "diamonds": "5060",
     "price": 3175
   },
   {
-    "diamonds": 7590,
+    "diamonds": "7590",
     "price": 4760
   },
   {
-    "diamonds": 10120,
+    "diamonds": "10120",
     "price": 6345
   },
   {
-    "diamonds": 12650,
+    "diamonds": "12650",
     "price": 7930
   },
   {

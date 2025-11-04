@@ -1,34 +1,34 @@
 [
   {
     "name": "115 Diamonds",
-    "price": 100
+    "price": 95
   },
   {
     "name": "240 Diamonds",
-    "price": 200
+    "price": 190
   },
   {
     "name": "355 Diamonds",
-    "price": 300
+    "price": 285
   },
   {
     "name": "480 Diamonds",
-    "price": 400
+    "price": 380
   },
   {
     "name": "610 Diamonds",
-    "price": 500
+    "price": 470
   },
   {
-    "name": "720 Diamonds",
-    "price": 600
+    "name": "Weekly Pass",
+    "price": 175
   },
   {
-    "name": "Weekly Membership",
-    "price": 180
+    "name": "Monthly Pass",
+    "price": 840
   },
   {
-    "name": "Monthly Membership",
-    "price": 850
+    "name": "Level Up Pass",
+    "price": 185
   }
 ]
